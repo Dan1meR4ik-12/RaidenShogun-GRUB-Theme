@@ -3,7 +3,7 @@
 ![screenshot](https://github.com/user-attachments/assets/7292d348-3c21-415c-afd2-e9ab2a942299)
 
 ## Theme Description
-Raiden Shogun from Genshin Impact GRUB theme. Here is EN and RU version also for Ventoy
+Raiden Shogun from Genshin Impact GRUB theme. Here is EN and RU version also for Ventoy and .psd file for your own customization.
 
 ## Installation
 1. Download & Unzip
